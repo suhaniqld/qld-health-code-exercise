@@ -16,7 +16,7 @@ Installation
 
 You need a code editor like Visual Studio Code and a modern web browser like Google Chrome.
 1. Clone the Repository
-2. Navigate to the project directory:
+2. Navigate to the project directory
 3. Open the project in your code editor
 
 Running the Project
