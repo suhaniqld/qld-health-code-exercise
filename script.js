@@ -17,27 +17,27 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             id: 'supporting-victims',
             content: ['Loren ipsun dolor sit anet, consectetur adipisci elit', 'Lorean ipsun dolor sit aneat, conseacteatur adipisci ealit', 'sunt in culpa qui officia deserunt mollit anim id est labor.'],
-            imageUrl: './images/a.jpg'
+            imageUrl: './images/1.jpg'
         },
         {
             id: 'delivering-frontline',
             content: ['Loren ipsun dolor sit anet, consectetur adipisci elit', 'Lorean ipsun dolor sit aneat, conseacteatur adipisci ealit', 'sunt in culpa qui officia deserunt mollit anim id est labor.'],
-            imageUrl: './images/b.jpg'
+            imageUrl: './images/2.jpg'
         },
         {
             id: 'detaining offenders',
             content: ['Loren ipsun dolor sit anet, consectetur adipisci elit', 'Lorean ipsun dolor sit aneat, conseacteatur adipisci ealit', 'sunt in culpa qui officia deserunt mollit anim id est labor.'],
-            imageUrl: './images/c.jpg'
+            imageUrl: './images/3.jpg'
         },
         {
             id: 'intervening-people-offend',
             content: ['Loren ipsun dolor sit anet, consectetur adipisci elit', 'Lorean ipsun dolor sit aneat, conseacteatur adipisci ealit', 'sunt in culpa qui officia deserunt mollit anim id est labor.'],
-            imageUrl: './images/d.jpg'
+            imageUrl: './images/4.jpg'
         },
         {
             id: 'preventing-crime',
             content: ['Loren ipsun dolor sit anet, consectetur adipisci elit', 'Lorean ipsun dolor sit aneat, conseacteatur adipisci ealit', 'sunt in culpa qui officia deserunt mollit anim id est labor.'],
-            imageUrl: './images/e.jpg'
+            imageUrl: './images/5.jpg'
         }
     ]
 
