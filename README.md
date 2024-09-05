@@ -12,13 +12,13 @@ HTML5: The structure of the web pages.
 CSS3: The styling and layout of the pages.
 JavaScript: For adding interactivity and dynamic content.
 
-Installation
+Installation & Running project
 
-You need a code editor like Visual Studio Code and a modern web browser like Google Chrome.
 1. Clone the Repository
 2. Navigate to the project directory
-3. Open the project in your code editor
+3. Open the project in your code editor e.g. visual studio code
+4. Open the campaign_poc.html file in your web browser to view the project.
 
-Running the Project
 
-Open the campaign_poc.html file in your web browser to view the project.
+
+
